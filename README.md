@@ -56,4 +56,8 @@ Fire Perimeters [Dataset]. Los Angeles GeoHub. https://geohub.lacity.org/maps/ad
 NASA Earth Observatory. (2014, March 14). Why is that Forest Red and that Cloud Blue? How to Interpret a False-Color Satellite Image. NASA Science. https://science.nasa.gov/earth/earth-observatory/how-to-interpret-a-false-color-satellite-image/
 [Accessed: November 20, 2025]
 
+EDS 220 - Working with Environmental Datasets. Assignment4-palisades-eaton-fires. Github.io. https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment4-palisades-eaton-fires.html
+[Accessed: November 26, 2025]
+‌
+
 ‌
